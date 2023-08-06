@@ -1,0 +1,1 @@
+Hello! if you want to modify these files make sure to have them follow the original formating, or at least keep the origonal tree formating. The program will automaticly regester the new data for the maps and it will automaticly add them to the game for maps, to enable them without reloading the program go into settings and hit reload settings
